@@ -1,0 +1,132 @@
+
+/* 
+    Created on : Apr 19, 2017, 11:02:27 PM
+    Author     : marol
+*/
+
+/* Styles included in this sheet */
+body {
+    min-height: 100%;
+    margin:0 auto;
+    background-color: black;
+    
+}
+
+/*Include image styling for footer*/
+image
+{
+ 
+ width : 150px;
+ height: 150px;
+}
+
+#im
+{
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
+
+/*styling for page 2 */
+#page2
+{
+  margin-top: 50px;
+  color: white;
+ 
+}
+
+
+/*styling for header 2*/
+h2
+{
+    style: Magneto;
+    color: white;
+    font-size:15px;
+}
+
+h1
+{
+    style: Magneto;
+    color: white;
+}
+
+h3
+{
+    style: Magneto;
+    color: white;
+}
+#error{
+    color: orangered;
+    margin-left: 120px;
+    margin-top: 500px;
+}
+nav#header_menu ul li {
+
+    color: purple;
+    display: block;
+    line-height: 0.1em;
+    padding: 1em 1em;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+
+nav .right{
+    float:right;
+    padding: 1em 1em;
+    color: white;
+    font-weight: bold;
+    font-size:20px;
+
+}
+
+#my_studies_table{
+
+    margin: 20px 20px 20px 100px;
+    width:80%
+}
+
+
+#studies_section{
+    margin-bottom: 100px;
+}
+
+table, th, td{
+
+    border:1px solid white;
+    padding: 0.5em;
+    border-collapse: collapse;
+
+}
+tr:nth-child(even) {
+    background-color: #D3D3CF;
+}
+tr:nth-child(odd) {
+    background-color: #EAEAE6;
+}
+th{
+    background-color: black;
+    color:white;
+    border-color:white;
+}
+
+button{
+
+    padding: 0.5em;
+    border-radius: 0.5em;
+}
+
+td{
+    text-align: center;
+
+}
+
+#error{
+    color: orangered;
+    margin-left: 120px;
+}
+
+#final {
+margin-top: 150px;
+}
